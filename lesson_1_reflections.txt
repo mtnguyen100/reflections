@@ -1,0 +1,40 @@
+Reflections 1
+
+1. How did viewing an FC between two versions help you spot the bug?
+
+- It was easy to find the differences between each version with the "*******" format
+- The ordering of each set of differences was clear and distinguishable
+
+2. How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+
+- I would see how I work and how I can change my programming habits
+- I can go back to a more stable version of my program by reverting back to an older version
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+- Pros
+	- More control over your workflow
+	- If you play it smart, commits will be easy to understand for other users
+	- Allows you to better understand how you work
+- Cons
+	- Possibility of making bad, buggy, or confusing commits
+	- Some people might not understand why you made a certain commit
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+- Git is focused more towards code, which often involves multiple files of differing types. Each document in Google Docs are often unrelated, so there is no need for multiple files in one commit.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+- You can see how much has changed between a newer and older version of a file. Git log shows you the order of these changes
+
+6. How might using version control make you more confident to make changes that could break something?
+
+- It allows you to more easily see what would cause problems in your code after committing, even when it doesn't necessarily break (e.g. no compile or 
+  runtime errors)
+
+  7. Now that you have your workspace set up, what do you want to try using Git for?
+
+  - To save commits for my Android apps in a local repository
+  - For any project I'll make in the future for any platform

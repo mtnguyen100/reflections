@@ -1,0 +1,3 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+	- It creates a new repository to store my commits to files
+	- Allows me to see my history and metadata of these files
