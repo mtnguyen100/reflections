@@ -1,1 +1,3 @@
 1. When would you want to use a remote repository rather than keeping all your work local?
+  - So other people working on the same project can see your changes as soon as possible
+  - So you can work on your project on a different computer by pulling the files from the remote repository
